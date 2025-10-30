@@ -7,3 +7,5 @@ numpy
 PyPDF2
 scikit-learn
 sentence-transformers
+fitz
+pymupdf
