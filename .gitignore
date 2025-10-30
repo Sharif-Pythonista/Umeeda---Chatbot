@@ -1,0 +1,18 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Data and cache
+data/
+*.faiss
+*.pkl
+
+# Environment variables
+.env
+
+# VS Code files
+.vscode/
+

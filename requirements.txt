@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+google-generativeai
+faiss-cpu
+pandas
+numpy
+PyPDF2
+scikit-learn
